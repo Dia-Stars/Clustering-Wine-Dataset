@@ -6,3 +6,5 @@ Wine Data Clustering R code and Report. Findings from Exploratory Data Analysis 
 Since this dataset only contains numerical variables, it's up to our analysis to not only classify wines, but also see what attributes each of these classes (or clusters) have. *It would be nice to try all 178 wines recorded in the dataset, but this was a more optimal take on answering our question.*
 
 This project was done by two students, and both code/report was dedicated to our final project. The code posted on this repository was by me, and my partner has done his own visualizations part of his code. Although my visuals appear different, the end product is still the same nonetheless. Just don't mind histograms!
+
+Link to original dataset: https://archive.ics.uci.edu/dataset/109/wine
